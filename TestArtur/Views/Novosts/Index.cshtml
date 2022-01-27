@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TestArtur.Models.NovostViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Новости</h1>
+
+<p>
+    <a asp-action="Create">Создать новость</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Заголовок
+            </th>
+            <th>
+                Дата Добавления
+            </th>
+            <th>
+                Видимость
+            </th>
+            <th>
+                Картинка
+            </th>
+            <th>
+                Тег
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Zagolovok)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Datadobavleniya)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vidimost)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Kartinka)*@
+                    <p><img src="@Html.DisplayFor(modelItem => item.Kartinka)" width=70 alt="Котики"></p>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Teg)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

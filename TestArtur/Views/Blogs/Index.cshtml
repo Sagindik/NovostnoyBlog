@@ -1,0 +1,75 @@
+﻿@model IEnumerable<TestArtur.Models.BlogViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Блог</h1>
+
+<p>
+    <a asp-action="Create">Создать блог</a>
+</p>
+
+<form asp-controller="Blogs" asp-action="Index">
+    <p>
+        Поиск по блогу: <input type="text" name="searchString" />
+
+    </p>
+    <p>
+        Теги:
+        <select name="teg" id="teg" class="form-control" asp-items="ViewBag.Teg"><option value="">Все</option></select>
+    </p>
+
+    <input type="submit" value="Найти" />
+
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Заголовок
+            </th>
+            <th>
+                Описание
+            </th>
+            <th>
+                Картинка
+            </th>
+            <th>
+                Дата добавления
+            </th>
+            <th>
+                Тег
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Zagolovok)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Opisanie)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Kartinka)*@
+                <p><img src="@Html.DisplayFor(modelItem => item.Kartinka)" width=70 alt="Котики"></p>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Datadobavleniya)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teg)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

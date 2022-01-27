@@ -1,0 +1,54 @@
+﻿@model TestArtur.Models.NovostViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Создать</h1>
+
+<h4>Новость</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Zagolovok" class="control-label">Заголовок</label>
+                <input asp-for="Zagolovok" class="form-control" />
+                <span asp-validation-for="Zagolovok" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Datadobavleniya" class="control-label">Дата добавления</label>
+                <input asp-for="Datadobavleniya" class="form-control" />
+                <span asp-validation-for="Datadobavleniya" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Vidimost" /> Видимость
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Kartinka" class="control-label">Картинка</label>
+                @*<input asp-for="Kartinka" class="form-control" />*@
+                <input id="kartinka" type="file" name="uploadFile" class="form-control" />
+                <span asp-validation-for="Kartinka" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TegId" class="control-label">Тег</label>
+                <select asp-for="TegId" class="form-control" asp-items="ViewBag.Teg"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Создать" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

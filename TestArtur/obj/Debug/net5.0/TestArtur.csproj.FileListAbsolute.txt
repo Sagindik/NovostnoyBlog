@@ -1,0 +1,555 @@
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfoInputs.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfo.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\staticwebassets\TestArtur.StaticWebAssets.Manifest.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\staticwebassets\TestArtur.StaticWebAssets.xml
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\scopedcss\bundle\TestArtur.styles.css
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.input.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.output.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorCoreGenerate.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Create.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Delete.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Details.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Edit.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Index.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Create.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Delete.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Details.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Edit.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Index.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cache
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cs
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\ref\TestArtur.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.json
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.exe
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.deps.json
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.json
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.dev.json
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ref\TestArtur.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.Views.pdb
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CopyComplete
+C:\Users\Serg\Downloads\Telegram Desktop\ТЗ\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.genruntimeconfig.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.Development.json
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.json
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.StaticWebAssets.xml
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.exe
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.deps.json
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.json
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.dev.json
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ref\TestArtur.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Humanizer.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.AssemblyReference.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfoInputs.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfo.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CoreCompileInputs.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.MvcApplicationPartsAssemblyInfo.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\scopedcss\bundle\TestArtur.styles.css
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\staticwebassets\TestArtur.StaticWebAssets.Manifest.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.input.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.output.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorCoreGenerate.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Create.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Delete.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Details.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Edit.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Index.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Create.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Delete.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Details.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Edit.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Index.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.Views.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CopyComplete
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\ref\TestArtur.dll
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.pdb
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.genruntimeconfig.cache
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Create.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Delete.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Details.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Edit.cshtml.g.cs
+D:\TestArtur Добавление ViewModels\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.StaticWebAssets.xml
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.exe
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.deps.json
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ref\TestArtur.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\TestArtur.Views.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\scopedcss\bundle\TestArtur.styles.css
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\staticwebassets\TestArtur.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.input.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.TagHelpers.output.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorCoreGenerate.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Create.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Delete.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Details.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Edit.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Blogs\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Create.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Delete.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Details.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Edit.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Novosts\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Create.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Delete.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Details.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Edit.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\Tegs\Index.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.Views.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\ref\TestArtur.dll
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.pdb
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\AddTableBlog\TestArtur\TestArtur\obj\Debug\net5.0\TestArtur.csproj.CopyComplete

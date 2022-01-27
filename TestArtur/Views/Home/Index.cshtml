@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TestArtur.Models.NovostViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Добро пожаловать</h1>
+    <h3>На новостной блог</h3>
+    @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
+</div>
+
+<form asp-controller="Home" asp-action="Index">
+    <p>
+        Поиск по новости: <input type="text" name="searchString" />
+
+    </p>
+    <p>
+        Теги:
+        <select name="teg" id="teg" class="form-control" asp-items="ViewBag.Teg"><option value="">Все</option></select>
+    </p>
+
+    <input type="submit" value="Найти" />
+
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Заголовок
+            </th>
+            <th>
+                Дата Добавления
+            </th>
+            <th>
+                Картинка
+            </th>
+            <th>
+                Тег
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Zagolovok)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Datadobavleniya)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Kartinka)*@
+                    <p><img src="@Html.DisplayFor(modelItem => item.Kartinka)" width=50 alt="Тут могли бы быть котики"></p>
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Teg)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

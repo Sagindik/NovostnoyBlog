@@ -1,0 +1,48 @@
+﻿@model TestArtur.Models.NovostViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Детали</h1>
+
+<div>
+    <h4>Новость</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Заголовок
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Zagolovok)
+        </dd>
+        <dt class = "col-sm-2">
+            Дата добавления
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Datadobavleniya)
+        </dd>
+        <dt class = "col-sm-2">
+            Видимость
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Vidimost)
+        </dd>
+        <dt class = "col-sm-2">
+            Картинка
+        </dt>
+        <dd class="col-sm-10">
+            <p><img src="@Html.DisplayFor(model => model.Kartinka)" width=70 alt="Котики"></p>
+        </dd>
+        <dt class = "col-sm-2">
+            Тег
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Teg)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Редатировать</a> |
+    <a asp-action="Index">Назад</a>
+</div>
