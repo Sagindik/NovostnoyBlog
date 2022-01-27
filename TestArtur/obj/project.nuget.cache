@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hnrk1niZ3DiTNifRTq10h24KBd7OLbXEDDneJ0fWMyG6TqlG+WQ48GC4jZTuXDK6DuJQQt3dUzWxfK4SGMTC1g==",
+  "dgSpecHash": "5Da0X0YufHsT5I6SubYYxsvRh+5vJOSF3uFGudbPczbM45ySDAMcsbIQX1/NY9GO1BY5mdGev4wKQh5s4LPvzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\AddTableBlog\\TestArtur\\TestArtur\\TestArtur.csproj",
+  "projectFilePath": "D:\\NovostnoyBlog\\TestArtur\\TestArtur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

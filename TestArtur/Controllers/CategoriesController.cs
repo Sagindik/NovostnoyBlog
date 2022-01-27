@@ -38,11 +38,6 @@ namespace TestArtur.Controllers
             }
 
             return View(await Task.Run(() => listViewModel));
-
-
-
-            //var categoryList = _categoryService.List();
-            //return View(await Task.Run(() => categoryList));
         }
 
         // GET: Categories/Details/5
@@ -72,14 +67,6 @@ namespace TestArtur.Controllers
         // GET: Categories/Create
         public IActionResult Create()
         {
-            //var categoryViewModel = new CategoryViewModel()
-            //{
-            //    Id = category.Id,
-            //    Naimenovanie = category.Naimenovanie,
-            //};
-
-            //return View(await Task.Run(() => categoryViewModel));
-
             ViewData["Tegs"] = new SelectList(_categoryService.TegList(), "Id", "Nazvanie");
             return View();
         }
@@ -96,6 +83,7 @@ namespace TestArtur.Controllers
                 _categoryService.Create(category, list);
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+
             ViewData["Tegs"] = new SelectList(_categoryService.TegList(), "Id", "Nazvanie");
             return View(await Task.Run(() => category));
         }
@@ -108,7 +96,6 @@ namespace TestArtur.Controllers
                 return NotFound();
             }
 
-
             var category = _categoryService.GetById((int)id);
             
             if (category == null)
@@ -116,8 +103,6 @@ namespace TestArtur.Controllers
                 return NotFound();
             }
 
-            
-            
             var categoryViewModel = new CategoryViewModel()
             {
                 Id = category.Id,
@@ -125,20 +110,6 @@ namespace TestArtur.Controllers
             };
 
             return View(await Task.Run(() => categoryViewModel));
-
-
-
-
-
-            //ViewData["Tegs"] = new SelectList(_categoryService.TegList(), "Id", "Nazvanie");
-            //return View(await Task.Run(() => category));
-
-
-
-
-
-
-            
         }
 
         // POST: Categories/Edit/5
@@ -172,8 +143,8 @@ namespace TestArtur.Controllers
                 }
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+        
             ViewData["Tegs"] = new SelectList(_categoryService.TegList(), "Id", "Nazvanie");
-
             return View(await Task.Run(() => category));
         }
 
@@ -199,7 +170,6 @@ namespace TestArtur.Controllers
             };
 
             return View(await Task.Run(() => categoryViewModel));
-
         }
 
         // POST: Categories/Delete/5
@@ -209,7 +179,6 @@ namespace TestArtur.Controllers
         {
             _categoryService.Delete(id);
             return RedirectToAction(await Task.Run(() => nameof(Index)));
-
         }
 
         private bool CategoryExists(int id)

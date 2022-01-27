@@ -14,8 +14,6 @@ namespace TestArtur.Controllers
 {
     public class BlogsController : Controller
     {
-        //private readonly NovostiContext _context;
-
         private IBlogService _blogService;
 
         public BlogsController(IBlogService blogService)
@@ -41,15 +39,12 @@ namespace TestArtur.Controllers
                     Datadobavleniya = item.Datadobavleniya,
                     
                     Teg = item.Teg != null ? item.Teg.Nazvanie : "",
-                    //TegId = item.TegId
                 };
                 listViewModel.Add(blogs);
             }
             ViewData["Teg"] = new SelectList(_blogService.TegList(), "Id", "Nazvanie");
 
             return View(await Task.Run(() => listViewModel));
-
-            //return View(await _context.BlogViewModel.ToListAsync());
         }
 
         // GET: Blogs/Details/5
@@ -61,9 +56,7 @@ namespace TestArtur.Controllers
             }
 
             var blog = _blogService.GetById((int)id);
-
-            //var blogViewModel = await _context.BlogViewModel
-            //    .FirstOrDefaultAsync(m => m.Id == id);
+            
             if (blog == null)
             {
                 return NotFound();
@@ -82,8 +75,6 @@ namespace TestArtur.Controllers
             };
 
             return View(await Task.Run(() => blogViewModel));
-
-            //return View(blogViewModel);
         }
 
         // GET: Blogs/Create
@@ -113,11 +104,8 @@ namespace TestArtur.Controllers
 
                 _blogService.Create(blog, uploadFile);
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
-
-                //_context.Add(blogViewModel);
-                //await _context.SaveChangesAsync();
-                //return RedirectToAction(nameof(Index));
             }
+
             ViewData["Teg"] = new SelectList(_blogService.TegList(), "Id", "Nazvanie", blogViewModel.TegId);
             return View(await Task.Run(() => blogViewModel));
         }
@@ -129,11 +117,9 @@ namespace TestArtur.Controllers
             {
                 return NotFound();
             }
-
-            
+                        
             var blog = _blogService.GetById((int)id);
 
-            //var blogViewModel = await _context.BlogViewModel.FindAsync(id);
             if (blog == null)
             {
                 return NotFound();
@@ -148,9 +134,9 @@ namespace TestArtur.Controllers
                 Datadobavleniya = blog.Datadobavleniya,
                 TegId = blog.TegId
             };
+            
             ViewData["Teg"] = new SelectList(_blogService.TegList(), "Id", "Nazvanie", blog.TegId);
             return View(await Task.Run(() => blogViewModel));
-            //return View(blogViewModel);
         }
 
         // POST: Blogs/Edit/5
@@ -170,9 +156,8 @@ namespace TestArtur.Controllers
                 try
                 {
                     _blogService.Update(id, blogViewModel, uploadFile);
-                    //_context.Update(blogViewModel);
-                    //await _context.SaveChangesAsync();
                 }
+         
                 catch (Exception ex)
                 {
                     if (!BlogExists(blogViewModel.Id))
@@ -184,8 +169,10 @@ namespace TestArtur.Controllers
                         throw;
                     }
                 }
+                
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+            
             ViewData["Teg"] = new SelectList(_blogService.TegList(), "Id", "Nazvanie", blogViewModel.TegId);
             return View(await Task.Run(() => blogViewModel));
         }
@@ -199,8 +186,7 @@ namespace TestArtur.Controllers
             }
 
             var blog = _blogService.GetById((int)id);
-            //var blogViewModel = await _context.BlogViewModel
-            //    .FirstOrDefaultAsync(m => m.Id == id);
+            
             if (blog == null)
             {
                 return NotFound();
@@ -224,9 +210,6 @@ namespace TestArtur.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            //var blogViewModel = await _context.BlogViewModel.FindAsync(id);
-            //_context.BlogViewModel.Remove(blogViewModel);
-            //await _context.SaveChangesAsync();
             _blogService.Delete(id);
             return RedirectToAction(await Task.Run(() => nameof(Index)));
         }

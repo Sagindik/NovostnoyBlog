@@ -41,22 +41,8 @@ namespace TestArtur.Controllers
             ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie");
 
             return View(await Task.Run(() => listViewModel));
-
-            //var list = _tegService.List();
-            //return View(await Task.Run(() => list));
         }
-        /*var tegViewModel = new TegViewModel()
-        {
-            Id = teg.Id,
-            Nazvanie = teg.Nazvanie
-            Zagolovok = novost.Zagolovok,
-            Vidimost = novost.Vidimost,
-            Teg = novost.Teg != null ? novost.Teg.Nazvanie : ""
-        };
-
-            return View(await Task.Run(() => novostViewModel));*/
-
-
+        
         // GET: Tegs/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -109,17 +95,9 @@ namespace TestArtur.Controllers
                 _tegService.Create(teg, list);
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+        
             ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", tegViewModel.CategoryId);
             return View(await Task.Run(() => tegViewModel));
-
-            /*if (ModelState.IsValid)
-            {
-                _tegService.Create(teg, list);
-                return RedirectToAction(await Task.Run(() => nameof(Index)));
-            }
-            ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", teg.CategoryId);
-            ViewData["Novosts"] = new SelectList(_tegService.NovostList(null), "Id", "Zagolovok");
-            return View(await Task.Run(() => teg));*/
         }
 
         // GET: Tegs/Edit/5
@@ -129,12 +107,13 @@ namespace TestArtur.Controllers
             {
                 return NotFound();
             }
+         
             var teg = _tegService.GetById((int)id);
+            
             if (teg == null)
             {
                 return NotFound();
             }
-
 
             var tegViewModel = new TegViewModel()
             {
@@ -145,13 +124,6 @@ namespace TestArtur.Controllers
 
             ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", teg.CategoryId);
             return View(await Task.Run(() => tegViewModel));
-
-
-
-
-            //ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", teg.CategoryId);
-            //ViewData["Novosts"] = new SelectList(_tegService.NovostList(null), "Id", "Zagolovok");
-            //return View(await Task.Run(() => teg));
         }
 
         // POST: Tegs/Edit/5
@@ -185,16 +157,9 @@ namespace TestArtur.Controllers
                 }
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+         
             ViewData["Categorys"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", teg.CategoryId);
-
             return View(await Task.Run(() => teg));
-
-
-            /*
-            ViewData["Category"] = new SelectList(_tegService.CategoryList(), "Id", "Naimenovanie", teg.CategoryId);
-            ViewData["Novosts"] = new SelectList(_tegService.NovostList(null), "Id", "Zagolovok");
-            return View(await Task.Run(() => teg));
-            */
         }
 
         // GET: Tegs/Delete/5
@@ -220,9 +185,6 @@ namespace TestArtur.Controllers
             };
 
             return View(await Task.Run(() => tegViewModel));
-
-
-
         }
 
         // POST: Tegs/Delete/5

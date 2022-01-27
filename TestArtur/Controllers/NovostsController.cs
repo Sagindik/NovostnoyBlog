@@ -39,15 +39,11 @@ namespace TestArtur.Controllers
                     Teg = item.Teg != null ? item.Teg.Nazvanie : "",
                     TegId = item.TegId 
                 };
+                
                 listViewModel.Add(news);
             }
 
-            //ViewData["Teg"] = new SelectList(_novostService.TegList(), "Id", "Nazvanie");
-
             return View(await Task.Run(() => listViewModel));
-
-            //var list = _novostService.List(searchString, teg);
-            //return View(await Task.Run(() => list));
         }
 
 
@@ -108,6 +104,7 @@ namespace TestArtur.Controllers
                 _novostService.Create(novost, uploadFile);
                 return RedirectToAction(await Task.Run(() => nameof(Index)));
             }
+         
             ViewData["Teg"] = new SelectList(_novostService.TegList(), "Id", "Nazvanie", novostViewModel.TegId);
             return View(await Task.Run(() => novostViewModel));
         }
@@ -121,6 +118,7 @@ namespace TestArtur.Controllers
             }
 
             var novost = _novostService.GetById ((int) id);
+            
             if (novost == null)
             {
                 return NotFound();
@@ -138,10 +136,6 @@ namespace TestArtur.Controllers
 
             ViewData["Teg"] = new SelectList(_novostService.TegList(), "Id", "Nazvanie", novost.TegId);
             return View(await Task.Run(() => novostViewModel));
-
-
-            //ViewData["Teg"] = new SelectList(_novostService.TegList(), "Id", "Nazvanie", novost.TegId);
-            //return View(await Task.Run(() => novost));
         }
 
         // POST: Novosts/Edit/5
@@ -206,8 +200,6 @@ namespace TestArtur.Controllers
             };
 
             return View(await Task.Run(() => novostViewModel));
-
-            //return View(await Task.Run(() => novost));
         }
 
         // POST: Novosts/Delete/5

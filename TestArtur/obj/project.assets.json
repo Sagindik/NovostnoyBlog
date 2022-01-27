@@ -7470,11 +7470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\Telegram Desktop\\AddTableBlog\\TestArtur\\TestArtur\\TestArtur.csproj",
+      "projectUniqueName": "D:\\NovostnoyBlog\\TestArtur\\TestArtur.csproj",
       "projectName": "TestArtur",
-      "projectPath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\AddTableBlog\\TestArtur\\TestArtur\\TestArtur.csproj",
+      "projectPath": "D:\\NovostnoyBlog\\TestArtur\\TestArtur.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\AddTableBlog\\TestArtur\\TestArtur\\obj\\",
+      "outputPath": "D:\\NovostnoyBlog\\TestArtur\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

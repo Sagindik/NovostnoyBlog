@@ -66,9 +66,6 @@ namespace TestArtur.Services.Tegs
             return teg;
         }
 
-
-        //public void Update(int id, [Bind("Id, Nazvanie")] Teg teg, List<Int32> list)
-
         public void Update(int id, [Bind("Id, Naimenovanie")] Teg teg, List<Int32> list)
         {
             var teg1 = _context.Tegs.Include(m => m.Novosts).FirstOrDefault(m => m.Id == teg.Id);
@@ -94,6 +91,5 @@ namespace TestArtur.Services.Tegs
         {
             return _context.Tegs.Any(m => m.Id == id);
         }
-
     }
 }
