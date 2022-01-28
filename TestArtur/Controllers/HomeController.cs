@@ -6,25 +6,32 @@ using System.Linq;
 using System.Threading.Tasks;
 using TestArtur.Models;
 using TestArtur.Services.Novosts;
+using TestArtur.Services.Blogs;
 
 namespace TestArtur.Controllers
 {
     public class HomeController : Controller
     {
         private INovostService _novostService;
+        private IBlogService _blogService;
         
-        public HomeController(INovostService novostService)
+        public HomeController(INovostService novostService, IBlogService blogService)
         {
             _novostService = novostService;
+            _blogService = blogService;
         }
 
         public async Task<IActionResult> Index(string searchString, int? teg)
         {
-            var list = _novostService.List(searchString, teg);
+            var listnovost = _novostService.List(searchString, teg);
+            var listblog = _blogService.List(searchString, teg);
 
-            var listViewModel = new List<NovostViewModel>();
+            var listnovostblogViewModel = new NovostBlogViewModel();
 
-            foreach(var item in list.Where(_=>_.Vidimost))
+            var listnovostViewModel = new List<NovostViewModel>();
+            var listblogViewModel = new List<BlogViewModel>();
+
+            foreach (var item in listnovost.Where(_=>_.Vidimost))
             {
                 var news = new NovostViewModel()
                 {
@@ -36,12 +43,29 @@ namespace TestArtur.Controllers
                     
                     Teg = item.Teg!=null? item.Teg.Nazvanie:""
                 };
-                listViewModel.Add(news);
+                listnovostViewModel.Add(news);
             }
+
+            foreach (var item in listblog)
+            {
+                var blogs = new BlogViewModel()
+                {
+                    Id = item.Id,
+                    Zagolovok = item.Zagolovok,
+                    Opisanie = item.Opisanie,
+                    Datadobavleniya = item.Datadobavleniya,
+                    Kartinka = item.Kartinka,
+
+                    Teg = item.Teg != null ? item.Teg.Nazvanie : ""
+                };
+                listblogViewModel.Add(blogs);
+            }
+            listnovostblogViewModel.novostViewModels = listnovostViewModel;
+            listnovostblogViewModel.blogViewModels = listblogViewModel;
 
             ViewData["Teg"] = new SelectList(_novostService.TegList(), "Id", "Nazvanie");
 
-            return View(await Task.Run(() => listViewModel));
+            return View(await Task.Run(() => listnovostblogViewModel));
         }
 
         public IActionResult Privacy()

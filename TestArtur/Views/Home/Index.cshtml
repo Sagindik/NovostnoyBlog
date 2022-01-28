@@ -1,4 +1,4 @@
-﻿@model IEnumerable<TestArtur.Models.NovostViewModel>
+﻿@model TestArtur.Models.NovostBlogViewModel
 
 @{
     ViewData["Title"] = "Home Page";
@@ -44,9 +44,9 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @foreach (var item in Model.novostViewModels)
 
-        {
+            {
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.Zagolovok)
@@ -57,14 +57,60 @@
                 <td>
                     @*@Html.DisplayFor(modelItem => item.Kartinka)*@
                     <p><img src="@Html.DisplayFor(modelItem => item.Kartinka)" width=50 alt="Тут могли бы быть котики"></p>
-
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Teg)
                 </td>
             </tr>
-        }
+            }
     </tbody>
 </table>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Заголовок
+            </th>
+            <th>
+                Описание
+            </th>
+            <th>
+            Дата Добавления
+        </th>
+            <th>
+                Картинка
+            </th>
+            <th>
+                Тег
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.blogViewModels)
+
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Zagolovok)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Opisanie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Datadobavleniya)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Kartinka)*@
+                <p><img src="@Html.DisplayFor(modelItem => item.Kartinka)" width=50 alt="Тут могли бы быть котики"></p>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teg)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>>
 
 
